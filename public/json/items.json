@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Item One",
+    "image": "images/logo.png"
+
+  },
+  {
+    "id": 2,
+    "name": "Item Two",
+    "image": "images/logo.png"
+
+  },
+  {
+    "id": 3,
+    "name": "Item Three",
+    "image": "images/logo.png"
+
+  },
+  {
+    "id": 4,
+    "name": "Item Four",
+    "image": "images/logo.png"
+
+  },
+  {
+    "id": 5,
+    "name": "Item Five",
+    "image": "images/logo.png"
+
+  },
+  {
+    "id": 6,
+    "name": "Item Six",
+    "image": "images/logo.png"
+
+  }
+]

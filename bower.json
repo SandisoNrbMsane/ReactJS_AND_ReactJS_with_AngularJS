@@ -1,0 +1,16 @@
+{
+  "name": "ngReact",
+  "author": "Amit Ashtekar",
+  "version": "0.1.5",
+  "main": "ngReact.js",
+  "description": "React+Angular",
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "<2.0.0",
+    "react": ">=0.12.0",
+    "angular-ui-router": "0.2.15",
+    "ngReact": "~0.1.5"
+  }
+
+}

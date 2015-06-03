@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <title>Angular +React Test</title>
+    <link rel="stylesheet" type="text/css" href="style/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style/item.css">
+  </head>
+  <body  ng-controller="myCTRL">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1>Angular +React</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+
+          <div id="itemslist" >
+            <itemlist data="config" watch-depth="reference"/>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="../bower_components/angular/angular.js"></script>
+    <script src="../bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="../bower_components/react/react.js"></script>
+    <script src="../bower_components/react/JSXTransformer.js"></script>
+    <script src="../bower_components/ngReact/ngReact.js"></script>
+    <script src="item.jsx" type="text/jsx"></script>
+    <script src="itemList.jsx" type="text/jsx"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

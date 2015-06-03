@@ -1,0 +1,14 @@
+{
+  "name": "React_Example",
+  "version": "1.0.0",
+  "description": "Integration of angularjs and ReactJS & communication between React components",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Ashtekar",
+  "license": "AA",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
